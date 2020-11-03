@@ -13,8 +13,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@soichiro_nitta/eslint-config": "^0.0.5",
-    "@soichiro_nitta/prettier-config": "^0.0.3",
+    "@soichiro_nitta/eslint-config": "^0.0.9",
+    "@soichiro_nitta/prettier-config": "^0.0.8",
     "eslint": "^7.9.0",
     "prettier": "^2.1.2",
     "typescript": "^4.0.5"
