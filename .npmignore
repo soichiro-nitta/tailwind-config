@@ -3,5 +3,4 @@
 .editorconfig
 .eslintrc.js
 .prettierrc.js
-README.md
 tsconfig.json
