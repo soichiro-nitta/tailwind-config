@@ -9,7 +9,7 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsc"
+    "prepare": "tsc"
   },
   "dependencies": {},
   "devDependencies": {
