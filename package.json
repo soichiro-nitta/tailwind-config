@@ -2,7 +2,7 @@
   "name": "@soichiro_nitta/tailwind-config",
   "version": "0.0.2",
   "description": "",
-  "main": "./out/index.js",
+  "main": "out/index.js",
   "author": "Soichiro Nitta <soic1226@gmail.com>",
   "license": "ISC",
   "publishConfig": {
