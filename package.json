@@ -8,6 +8,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soichiro-nitta/tailwind-config.git"
+  },
+  "homepage": "https://github.com/soichiro-nitta/tailwind-config",
   "scripts": {
     "prepare": "tsc"
   },
