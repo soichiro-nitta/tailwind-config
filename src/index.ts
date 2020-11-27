@@ -103,7 +103,7 @@ export const tailwindConfig = {
         width: `calc(100% - ${config('theme.spacing.16')})`,
       },
       '.will-transform-opacity': {
-        'will-change': 'transform opacity',
+        'will-change': 'transform, opacity',
       },
       '.will-transform': {
         'will-change': 'transform',
