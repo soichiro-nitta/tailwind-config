@@ -51,6 +51,7 @@ export const tailwindConfig = {
   },
   rotate: {
     225: '225deg',
+    135: '135deg',
   },
   borderRadius: {
     full: '50%',
