@@ -5,7 +5,7 @@ export const tailwindConfig = {
   },
   purge: {
     mode: 'all',
-    content: ['./src/**/*.{js,ts,jsx,tsx}'],
+    content: ['./**/*.{js,ts,jsx,tsx}'],
   },
   fontSize: {
     '2.5xl': '1.6875rem',
