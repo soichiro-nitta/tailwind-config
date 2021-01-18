@@ -51,6 +51,7 @@ export const tailwindConfig = {
     8: '2rem',
     10: '2.5rem',
     12: '3rem',
+    18: '4.5rem',
   },
   rotate: {
     225: '225deg',
