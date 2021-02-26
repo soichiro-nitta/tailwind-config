@@ -25,6 +25,7 @@ export const tailwindConfig = {
     9: '2.25rem',
     11: '2.75rem',
     14: '3.5rem',
+    17: '4.25rem',
     18: '4.5rem',
     30: '7.5rem',
     72: '18rem',
