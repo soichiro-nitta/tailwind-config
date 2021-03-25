@@ -1,6 +1,6 @@
 {
   "name": "@soichiro_nitta/tailwind-config",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "",
   "main": "out/index.js",
   "author": "Soichiro Nitta <soic1226@gmail.com>",
